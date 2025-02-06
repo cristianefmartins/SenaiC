@@ -1,0 +1,74 @@
+
+
+Draw.io = online
+
+Jogos
+
+
+=============== [03/02/2024 segunda] ===============
+
+Programa = conjunto instruções, entrada, processamento, saída
+
+https://dontpad.com/senai-c#
+
+https://studio.code.org/hoc/1
+
+https://studio.code.org/s/hero/lessons/1/levels/1
+
+
+
+=============== [04/02/2024 terca] ===============
+
+1	- Faça um algoritmo em FLUXOGRAMA para ler as dimensões de um terreno retangular e depois exibir a área do terreno.
+
+2	- Faça um algoritmo em FLUXOGRAMA para ler a idade de uma pessoa, e exibir quantos dias de vida ela possui. Considere sempre anos completos, e que um ano possui 365 dias.
+
+3	- Faça um algoritmo em FLUXOGRAMA que leia a idade de uma pessoa e exiba em dias e meses.
+
+4	- Faça um algoritmo em FLUXOGRAMA que leia as 3 notas de um aluno e calcule a média final deste aluno.
+
+5	- Elabore um algoritmo em FLUXOGRAMA que dada a média de um aluno emita a mensagem "APROVADO" se a média for maior ou igual a 5 e "REPROVADO" se a média for menor que 5.
+
+6	- Elabore um algoritmo em FLUXOGRAMA que dada a média de um aluno imprima um conceito conforme a tabela abaixo:
+
+Média de Aproveitamento	Conceito
+9,0	A
+7,5 e < 9,0	B
+6,0 e < 7,5	C
+abaixo de 6	Reprovado
+ 
+
+EXTRAS – 
+
+- Elabore um algoritmo em FLUXOGRAMA que leia diversos valores numéricos digitados e para cada um imprima a mensagem “valor válido” até que digite 0 (zero).
+
+- Escreva um algoritmo em FLUXOGRAMA para ler 10 números e ao final da leitura escrever a soma total dos 10 números lidos.
+
+
+Material Consulta:
+https://drive.google.com/file/d/1_4M-L8Et8IZ0AseVvXwKZgLYl6OChLcs/view?usp=sharing
+
+https://www.macoratti.net/13/09/net_pcod1.htm
+
+Balta
+
+
+
+=============== [05/02/2024 quarta] ===============
+
+https://drive.google.com/file/d/10flfVfsfiaBxdGMLVBzoGqz1iR9WgvUA/view?usp=sharing
+
+//Estrutura condicional simples
+bol sol 
+
+
+
+
+=============== [06/02/2024 quinta] ===============
+
+=============== [07/02/2024 sexta] ===============
+
+
+
+
+
