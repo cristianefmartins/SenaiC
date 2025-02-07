@@ -66,6 +66,19 @@ bol sol
 
 =============== [06/02/2024 quinta] ===============
 
+https://drive.google.com/file/d/1mU4pOFni1A3bav7fUMyqw6WfB5FMTEZT/view?usp=sharing
+
+https://github.com/Viniart/Exercicios-C-.git
+
+CTRL K / CTRL C comentar um bloco 
+
+OU
+
+/*
+ XXXXX
+*/
+
+
 =============== [07/02/2024 sexta] ===============
 
 
