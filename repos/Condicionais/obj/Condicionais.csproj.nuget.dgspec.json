@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fic\\source\\repos\\Condicionais\\Condicionais.csproj": {}
+    "C:\\Users\\Fic\\Desktop\\Cris\\repos\\Condicionais\\Condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fic\\source\\repos\\Condicionais\\Condicionais.csproj": {
+    "C:\\Users\\Fic\\Desktop\\Cris\\repos\\Condicionais\\Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fic\\source\\repos\\Condicionais\\Condicionais.csproj",
+        "projectUniqueName": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\Condicionais\\Condicionais.csproj",
         "projectName": "Condicionais",
-        "projectPath": "C:\\Users\\Fic\\source\\repos\\Condicionais\\Condicionais.csproj",
+        "projectPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\Condicionais\\Condicionais.csproj",
         "packagesPath": "C:\\Users\\Fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fic\\source\\repos\\Condicionais\\obj\\",
+        "outputPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\Condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

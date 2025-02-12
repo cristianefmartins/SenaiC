@@ -82,6 +82,45 @@ OU
 =============== [07/02/2024 sexta] ===============
 
 
+https://www.notion.so/Dicion-rio-do-Programador-C-193d3bad672380aa917fd003ad6a608b?showMoveTo=true
+
+https://creative-panama-350.notion.site/Git-GitHub-193d3bad672380989519c91e77b8ec72
+
+
+Atividades:
+https://www.notion.so/Exerc-cios-C-193d3bad67238091bc2cdb12d63a20ff
+
+
+digitar CultureInfo, vai ficar branco, dar um CTRL + . e o framework sugere algumas opções pra correção do problema
+escolher aplicar, ele adiciona a linha using System.Globalization; no começo do programa 
+--> ignora a cultura do pais e sempre considera números com ponto, e.g se o usuário digitar 1,60 (padrão brasil) o sistema
+não vai mudar pra 160 vai mudar pra 1.60
+
+
+ESTRUTURA DE REPETICAO
+- While (boolean) = enquanto, executa o parêntesis e faz o que ta dentro do {}
+- Do / Whilee (boolean) = faz uma acao e depois faz a condicao
+- For = para 
+
+
+! eh sinal de negação, oposto e.g while (!acertou); eh o mesmo que while (acertou == false);
+
+
+=============== [10/02/2024 segunda] ===============
+FALTEI.... aula de array
+
+=============== [11/02/2024 terca] ===============
+
+
+=============== [12/02/2024 quarta] ===============
+
+
+=============== [13/02/2024 quinta] ===============
+
+
+=============== [14/02/2024 sexta] ===============
+
+
 
 
 
