@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fic\\source\\repos\\Metodos\\Metodos.csproj",
+      "projectUniqueName": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\Metodos\\Metodos.csproj",
       "projectName": "Metodos",
-      "projectPath": "C:\\Users\\Fic\\source\\repos\\Metodos\\Metodos.csproj",
+      "projectPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\Metodos\\Metodos.csproj",
       "packagesPath": "C:\\Users\\Fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fic\\source\\repos\\Metodos\\obj\\",
+      "outputPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\Metodos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -43,7 +43,7 @@ Console.WriteLine(Somar(15, 22));
 
 static void Saudacao()
 {
-    Console.WriteLine("Seja bemm vindo ao sistema!");
+    Console.WriteLine("Seja bem vindo ao sistema!");
 }
 Saudacao();
 

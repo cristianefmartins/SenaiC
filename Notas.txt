@@ -5,6 +5,18 @@ Draw.io = online
 Jogos
 
 
+git checkout -b NOME-DA-NOVA-BRANCH
+git status
+git add .
+git commit -m "comentario"
+git push
+
+
+
+
+CTRL + D copia uma linha igual em baixo
+
+
 =============== [03/02/2024 segunda] ===============
 
 Programa = conjunto instruções, entrada, processamento, saída
@@ -114,9 +126,19 @@ FALTEI.... aula de array
 
 =============== [12/02/2024 quarta] ===============
 
+static significa que não queremos usar Orientação a objetos, a gente ta usando pq estamos criando tudo em um único arquivo
+
 
 =============== [13/02/2024 quinta] ===============
 
+
+//modularizar o sistema = criar funções
+  break;  //indica quando o caso termina
+
+
+menu compilação > publicar seleção
+
+selecionar arquivo unico
 
 =============== [14/02/2024 sexta] ===============
 

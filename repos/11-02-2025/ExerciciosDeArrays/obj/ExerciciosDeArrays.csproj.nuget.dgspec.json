@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fic\\source\\repos\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj": {}
+    "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fic\\source\\repos\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj": {
+    "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fic\\source\\repos\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj",
+        "projectUniqueName": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj",
         "projectName": "ExerciciosDeArrays",
-        "projectPath": "C:\\Users\\Fic\\source\\repos\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj",
+        "projectPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\ExerciciosDeArrays\\ExerciciosDeArrays.csproj",
         "packagesPath": "C:\\Users\\Fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fic\\source\\repos\\ExerciciosDeArrays\\obj\\",
+        "outputPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\11-02-2025\\ExerciciosDeArrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

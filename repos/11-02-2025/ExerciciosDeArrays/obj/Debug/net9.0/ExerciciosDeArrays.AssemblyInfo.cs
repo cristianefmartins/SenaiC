@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosDeArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bca7f8231b234766526b7db7536ccb0afb9e4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosDeArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosDeArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
