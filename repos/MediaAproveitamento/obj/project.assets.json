@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fic\\source\\repos\\MediaAproveitamento\\MediaAproveitamento.csproj",
+      "projectUniqueName": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\MediaAproveitamento\\MediaAproveitamento.csproj",
       "projectName": "MediaAproveitamento",
-      "projectPath": "C:\\Users\\Fic\\source\\repos\\MediaAproveitamento\\MediaAproveitamento.csproj",
+      "projectPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\MediaAproveitamento\\MediaAproveitamento.csproj",
       "packagesPath": "C:\\Users\\Fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fic\\source\\repos\\MediaAproveitamento\\obj\\",
+      "outputPath": "C:\\Users\\Fic\\Desktop\\Cris\\repos\\MediaAproveitamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
